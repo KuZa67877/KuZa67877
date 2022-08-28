@@ -1,5 +1,7 @@
 Hi, I'm a beginning mobile developer!
+
 Now I'm learning kotlin.
+
 My contacts:
 telegram: KuZa67877
 vk:egor67877
