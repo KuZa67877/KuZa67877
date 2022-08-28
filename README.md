@@ -5,7 +5,9 @@ Now I'm learning kotlin.
 My contacts:
 
 telegram: @KuZa67877
+
 vk: vk.com/egor67877
+
 email: egor67877@gmail.com
 
 <!---
