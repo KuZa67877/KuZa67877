@@ -1,8 +1,3 @@
-Hi, I'm a beginning mobile developer!
-
-Now I'm learning kotlin.
-
-My contacts:
 
 telegram: @KuZa67877
 
