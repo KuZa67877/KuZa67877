@@ -13,11 +13,10 @@
     <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white" alt="VK Badge"/>
  </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=KuZa67877&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=KuZa67877&style=flat-square&color=blue" alt="" style="display: block; margin-left: auto; margin-right: auto;"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KuZa67877&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuZa67877" />
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=KuZa67877&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
     </a>
 </div>
